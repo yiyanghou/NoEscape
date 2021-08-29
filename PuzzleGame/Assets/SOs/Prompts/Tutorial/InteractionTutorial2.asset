@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8faa4e3fd38fb2439de1ff2784fa3b9, type: 3}
+  m_Name: InteractionTutorial2
+  m_EditorClassIdentifier: 
+  title: 'Tutorial: Item Details'
+  prompt: Be sure to pay attention to details. Some points of interest on the item
+    will be highlighted as you move the mouse.
+  promptImage: {fileID: 21300000, guid: a62d2af3867221641ab270964ed5b227, type: 3}
+  options:
+  - optionName: Next
+    optionEvents:
+      _PersistentCalls:
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.ClosePrompt
+        _PersistentArguments: []
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.DisplayPrompt
+        _PersistentArguments:
+        - _Type: 13
+          _Int: 0
+          _String: PuzzleGame.PromptDef, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+            PublicKeyToken=null
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 11400000, guid: 060dab0a3f8ac654690630f65ac41698, type: 2}
+  hasBackButton: 0
+  skippable: 0
+  backButtonName: 
+  popUpSoundOverride: {fileID: 0}

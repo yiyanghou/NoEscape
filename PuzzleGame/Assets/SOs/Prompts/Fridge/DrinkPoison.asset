@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8faa4e3fd38fb2439de1ff2784fa3b9, type: 3}
+  m_Name: DrinkPoison
+  m_EditorClassIdentifier: 
+  title: Message
+  prompt: You found a bottle of highly toxic poison. Commit suicide?
+  promptImage: {fileID: 0}
+  options:
+  - optionName: Sure!
+    optionEvents:
+      _PersistentCalls:
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.ClosePrompt
+        _PersistentArguments: []
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.TriggerEnding
+        _PersistentArguments:
+        - _Type: 4
+          _Int: 0
+          _String: PuzzleGame.EGameEndingType, Assembly-CSharp, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 0}
+  hasBackButton: 1
+  backButtonName: No

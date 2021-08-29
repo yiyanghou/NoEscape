@@ -1,0 +1,2638 @@
+fileFormatVersion: 2
+guid: 6badf23ba737445498bb7132dce8f05a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6287564867745142676
+    second: Male-Average-Average-Sprite-Sheet_0
+  - first:
+      213: -8318151247518734221
+    second: Male-Average-Average-Sprite-Sheet_1
+  - first:
+      213: -1038869894995639588
+    second: Male-Average-Average-Sprite-Sheet_2
+  - first:
+      213: 8458577435673308440
+    second: Male-Average-Average-Sprite-Sheet_3
+  - first:
+      213: -9009491330668879799
+    second: Male-Average-Average-Sprite-Sheet_4
+  - first:
+      213: -1681747939805150698
+    second: Male-Average-Average-Sprite-Sheet_5
+  - first:
+      213: -3652720016747385486
+    second: Male-Average-Average-Sprite-Sheet_6
+  - first:
+      213: 2260809970479919702
+    second: Male-Average-Average-Sprite-Sheet_7
+  - first:
+      213: 284624772827786003
+    second: Male-Average-Average-Sprite-Sheet_8
+  - first:
+      213: 5755532165839322903
+    second: Male-Average-Average-Sprite-Sheet_9
+  - first:
+      213: -373432146613087642
+    second: Male-Average-Average-Sprite-Sheet_10
+  - first:
+      213: -4886575343883600697
+    second: Male-Average-Average-Sprite-Sheet_11
+  - first:
+      213: 3424474567740895166
+    second: Male-Average-Average-Sprite-Sheet_12
+  - first:
+      213: -4823901271428787611
+    second: Male-Average-Average-Sprite-Sheet_13
+  - first:
+      213: 4704564490987245729
+    second: Male-Average-Average-Sprite-Sheet_14
+  - first:
+      213: 1054268433544449937
+    second: Male-Average-Average-Sprite-Sheet_15
+  - first:
+      213: 1717264690750707994
+    second: Male-Average-Average-Sprite-Sheet_16
+  - first:
+      213: -8873199479146162306
+    second: Male-Average-Average-Sprite-Sheet_17
+  - first:
+      213: 3124915020400596967
+    second: Male-Average-Average-Sprite-Sheet_18
+  - first:
+      213: 6644639261427009399
+    second: Male-Average-Average-Sprite-Sheet_19
+  - first:
+      213: -7112936662022072
+    second: Male-Average-Average-Sprite-Sheet_20
+  - first:
+      213: -4549881097228215800
+    second: Male-Average-Average-Sprite-Sheet_21
+  - first:
+      213: -7617072589566127369
+    second: Male-Average-Average-Sprite-Sheet_22
+  - first:
+      213: 1062541457811144968
+    second: Male-Average-Average-Sprite-Sheet_23
+  - first:
+      213: -6303982003309476386
+    second: Male-Average-Average-Sprite-Sheet_24
+  - first:
+      213: -8130074115357959581
+    second: Male-Average-Average-Sprite-Sheet_25
+  - first:
+      213: 5839579979711719814
+    second: Male-Average-Average-Sprite-Sheet_26
+  - first:
+      213: 2957234493872217526
+    second: Male-Average-Average-Sprite-Sheet_27
+  - first:
+      213: 6444777717577612614
+    second: Male-Average-Average-Sprite-Sheet_28
+  - first:
+      213: 438877374063103482
+    second: Male-Average-Average-Sprite-Sheet_29
+  - first:
+      213: 1231080626646772215
+    second: Male-Average-Average-Sprite-Sheet_30
+  - first:
+      213: -8604549456665668215
+    second: Male-Average-Average-Sprite-Sheet_31
+  - first:
+      213: -6691895233866368777
+    second: Male-Average-Average-Sprite-Sheet_32
+  - first:
+      213: -4699807160763936597
+    second: Male-Average-Average-Sprite-Sheet_33
+  - first:
+      213: -7459722882025959302
+    second: Male-Average-Average-Sprite-Sheet_34
+  - first:
+      213: -1780155317038428098
+    second: Male-Average-Average-Sprite-Sheet_35
+  - first:
+      213: -8940234851784654104
+    second: Male-Average-Average-Sprite-Sheet_36
+  - first:
+      213: 7672181052170244008
+    second: Male-Average-Average-Sprite-Sheet_37
+  - first:
+      213: 582350102896786311
+    second: Male-Average-Average-Sprite-Sheet_38
+  - first:
+      213: 7372531624200895088
+    second: Male-Average-Average-Sprite-Sheet_39
+  - first:
+      213: -5910290211628554409
+    second: Male-Average-Average-Sprite-Sheet_40
+  - first:
+      213: 1161014438079341177
+    second: Male-Average-Average-Sprite-Sheet_41
+  - first:
+      213: -5537672741292077095
+    second: Male-Average-Average-Sprite-Sheet_42
+  - first:
+      213: -7516635786724050994
+    second: Male-Average-Average-Sprite-Sheet_43
+  - first:
+      213: 3079549177094429010
+    second: Male-Average-Average-Sprite-Sheet_44
+  - first:
+      213: 3473871783132305914
+    second: Male-Average-Average-Sprite-Sheet_45
+  - first:
+      213: 7763215501050849704
+    second: Male-Average-Average-Sprite-Sheet_46
+  - first:
+      213: -7926245619812376767
+    second: Male-Average-Average-Sprite-Sheet_47
+  - first:
+      213: -5049274792899310064
+    second: Male-Average-Average-Sprite-Sheet_48
+  - first:
+      213: 1319238008616561353
+    second: Male-Average-Average-Sprite-Sheet_49
+  - first:
+      213: -8528537874926655499
+    second: Male-Average-Average-Sprite-Sheet_50
+  - first:
+      213: 173638517935629288
+    second: Male-Average-Average-Sprite-Sheet_51
+  - first:
+      213: -2559191945157066767
+    second: Male-Average-Average-Sprite-Sheet_52
+  - first:
+      213: -2372475667534967901
+    second: Male-Average-Average-Sprite-Sheet_53
+  - first:
+      213: 1721994090707996650
+    second: Male-Average-Average-Sprite-Sheet_54
+  - first:
+      213: 8613937850288820386
+    second: Male-Average-Average-Sprite-Sheet_55
+  - first:
+      213: 378079857840150609
+    second: Male-Average-Average-Sprite-Sheet_56
+  - first:
+      213: 8284893910555168302
+    second: Male-Average-Average-Sprite-Sheet_57
+  - first:
+      213: 4912891829043602581
+    second: Male-Average-Average-Sprite-Sheet_58
+  - first:
+      213: -8680579117707737209
+    second: Male-Average-Average-Sprite-Sheet_59
+  - first:
+      213: 601445186436670687
+    second: Male-Average-Average-Sprite-Sheet_60
+  - first:
+      213: 7461126323708404672
+    second: Male-Average-Average-Sprite-Sheet_61
+  - first:
+      213: 2631768118943219942
+    second: Male-Average-Average-Sprite-Sheet_62
+  - first:
+      213: 7284635583725257450
+    second: Male-Average-Average-Sprite-Sheet_63
+  - first:
+      213: 467080381120704949
+    second: Male-Average-Average-Sprite-Sheet_64
+  - first:
+      213: -4078843300739270552
+    second: Male-Average-Average-Sprite-Sheet_65
+  - first:
+      213: -8268916039016228212
+    second: Male-Average-Average-Sprite-Sheet_66
+  - first:
+      213: -3113791466365051070
+    second: Male-Average-Average-Sprite-Sheet_67
+  - first:
+      213: -5247996364143218089
+    second: Male-Average-Average-Sprite-Sheet_68
+  - first:
+      213: -926836312260389724
+    second: Male-Average-Average-Sprite-Sheet_69
+  - first:
+      213: -4291798412800747325
+    second: Male-Average-Average-Sprite-Sheet_70
+  - first:
+      213: -8600348745662094469
+    second: Male-Average-Average-Sprite-Sheet_71
+  - first:
+      213: 1350934463047426802
+    second: Male-Average-Average-Sprite-Sheet_72
+  - first:
+      213: -6693562622091749647
+    second: Male-Average-Average-Sprite-Sheet_73
+  - first:
+      213: -3413313176699220767
+    second: Male-Average-Average-Sprite-Sheet_74
+  - first:
+      213: -6976760533376100342
+    second: Male-Average-Average-Sprite-Sheet_75
+  - first:
+      213: 3594238441802606889
+    second: Male-Average-Average-Sprite-Sheet_76
+  - first:
+      213: -4197532788924612497
+    second: Male-Average-Average-Sprite-Sheet_77
+  - first:
+      213: -7757106402885133749
+    second: Male-Average-Average-Sprite-Sheet_78
+  - first:
+      213: -4434750509915273637
+    second: Male-Average-Average-Sprite-Sheet_79
+  - first:
+      213: 1640188786558334747
+    second: Male-Average-Average-Sprite-Sheet_80
+  - first:
+      213: 5177703083166419693
+    second: Male-Average-Average-Sprite-Sheet_81
+  - first:
+      213: 1854077389602228337
+    second: Male-Average-Average-Sprite-Sheet_82
+  - first:
+      213: 3571762438383123227
+    second: Male-Average-Average-Sprite-Sheet_83
+  - first:
+      213: 5312384560026647960
+    second: Male-Average-Average-Sprite-Sheet_84
+  - first:
+      213: -5879734635823777759
+    second: Male-Average-Average-Sprite-Sheet_85
+  - first:
+      213: 8021925437382390358
+    second: Male-Average-Average-Sprite-Sheet_86
+  - first:
+      213: 2564549589127319373
+    second: Male-Average-Average-Sprite-Sheet_87
+  - first:
+      213: 4028757315600193418
+    second: Male-Average-Average-Sprite-Sheet_88
+  - first:
+      213: 717767743604511469
+    second: Male-Average-Average-Sprite-Sheet_89
+  - first:
+      213: 8697875665039958692
+    second: Male-Average-Average-Sprite-Sheet_90
+  - first:
+      213: -1578811723930210870
+    second: Male-Average-Average-Sprite-Sheet_91
+  - first:
+      213: -5522030389010580553
+    second: Male-Average-Average-Sprite-Sheet_92
+  - first:
+      213: 5164440581524172628
+    second: Male-Average-Average-Sprite-Sheet_93
+  - first:
+      213: -2049823134614473541
+    second: Male-Average-Average-Sprite-Sheet_94
+  - first:
+      213: -8216379599778754996
+    second: Male-Average-Average-Sprite-Sheet_95
+  - first:
+      213: 5362260628855810204
+    second: Male-Average-Average-Sprite-Sheet_96
+  - first:
+      213: -2397745998447161626
+    second: Male-Average-Average-Sprite-Sheet_97
+  - first:
+      213: -6216946565931216129
+    second: Male-Average-Average-Sprite-Sheet_98
+  - first:
+      213: -7063832518810626532
+    second: Male-Average-Average-Sprite-Sheet_99
+  - first:
+      213: 7964192543177925560
+    second: Male-Average-Average-Sprite-Sheet_100
+  - first:
+      213: 3515762680421764721
+    second: Male-Average-Average-Sprite-Sheet_101
+  - first:
+      213: -3928092649778155491
+    second: Male-Average-Average-Sprite-Sheet_102
+  - first:
+      213: 219409554879566386
+    second: Male-Average-Average-Sprite-Sheet_103
+  - first:
+      213: -6695174345983138892
+    second: Male-Average-Average-Sprite-Sheet_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1216
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497dc2c2feae14750800000000000000
+      internalID: 6287564867745142676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1216
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786ca7038dff8c80800000000000000
+      internalID: -8318151247518734221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1216
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd200fca5513591f0800000000000000
+      internalID: -1038869894995639588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1216
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d217ebc57e26570800000000000000
+      internalID: 8458577435673308440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1216
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940258c7e5bd7f280800000000000000
+      internalID: -9009491330668879799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1216
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124b26b82b39a8e0800000000000000
+      internalID: -1681747939805150698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1216
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d20d96f7eee4dc0800000000000000
+      internalID: -3652720016747385486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1152
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652fd1b90b2006f10800000000000000
+      internalID: 2260809970479919702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1152
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2dae09b033f300800000000000000
+      internalID: 284624772827786003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1152
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fff2eb202cfdf40800000000000000
+      internalID: 5755532165839322903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1152
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6625a61f07d41daf0800000000000000
+      internalID: -373432146613087642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1152
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb2ab6d956f2cb0800000000000000
+      internalID: -4886575343883600697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1152
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2e88c97d268f20800000000000000
+      internalID: 3424474567740895166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1088
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5629eec0a5f0e0db0800000000000000
+      internalID: -4823901271428787611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1090
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0163c8a78f94140800000000000000
+      internalID: 4704564490987245729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1088
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f0357fd8381ae00800000000000000
+      internalID: 1054268433544449937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1088
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1954854323f4d710800000000000000
+      internalID: 1717264690750707994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1090
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77df4006101cd480800000000000000
+      internalID: -8873199479146162306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1088
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7924097aded5b20800000000000000
+      internalID: 3124915020400596967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1026
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77788f51430863c50800000000000000
+      internalID: 6644639261427009399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84843f062dab6eff0800000000000000
+      internalID: -7112936662022072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1024
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a92759f339bd0c0800000000000000
+      internalID: -4549881097228215800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1024
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2db8636d8ba4690800000000000000
+      internalID: -7617072589566127369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1024
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80185f783d7eebe00800000000000000
+      internalID: 1062541457811144968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 960
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5884694c1c388a0800000000000000
+      internalID: -6303982003309476386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 960
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9d74caac2c2f80800000000000000
+      internalID: -8130074115357959581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 960
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68923385d0b5a0150800000000000000
+      internalID: 5839579979711719814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 960
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd19c4aa153a0920800000000000000
+      internalID: 2957234493872217526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 960
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df0903033707950800000000000000
+      internalID: 6444777717577612614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 960
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdccfc75a4371600800000000000000
+      internalID: 438877374063103482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 960
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96521be4da51110800000000000000
+      internalID: 1231080626646772215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 896
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859927abdf769880800000000000000
+      internalID: -8604549456665668215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 901
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f34f6dbc9123a0800000000000000
+      internalID: -6691895233866368777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 901
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba014d5b94ee6ceb0800000000000000
+      internalID: -4699807160763936597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 902
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705df5ef8db97890800000000000000
+      internalID: -7459722882025959302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 906
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d6eabb2e9b47e0800000000000000
+      internalID: -1780155317038428098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 896
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e20fca05c7ede380800000000000000
+      internalID: -8940234851784654104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 832
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af071b9400197a60800000000000000
+      internalID: 7672181052170244008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 832
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b331a455ce41800800000000000000
+      internalID: 582350102896786311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 832
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af3db637e705660800000000000000
+      internalID: 7372531624200895088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 832
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576968dd5e6afda0800000000000000
+      internalID: -5910290211628554409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 832
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a1d8ea70cc1010800000000000000
+      internalID: 1161014438079341177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 832
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0cec4bfb3623b0800000000000000
+      internalID: -5537672741292077095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 774
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f25aa39b8fa790800000000000000
+      internalID: -7516635786724050994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 778
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595f0119a1ccba20800000000000000
+      internalID: 3079549177094429010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 778
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af99adc3bfba53030800000000000000
+      internalID: 3473871783132305914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 774
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a921feed5b7cbb60800000000000000
+      internalID: 7763215501050849704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 773
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f56949a91500290800000000000000
+      internalID: -7926245619812376767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 773
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e07ebf35f5de9b0800000000000000
+      internalID: -5049274792899310064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 706
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa8cdaaffde4210800000000000000
+      internalID: 1319238008616561353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 707
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f728872dfb84a980800000000000000
+      internalID: -8528537874926655499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 707
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e0e4ef43e86200800000000000000
+      internalID: 173638517935629288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 707
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3fdc2c7ceb7cd0800000000000000
+      internalID: -2559191945157066767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 706
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab025643f5431fd0800000000000000
+      internalID: -2372475667534967901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 640
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc8f18080c5e710800000000000000
+      internalID: 1721994090707996650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 640
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d1c316dada8770800000000000000
+      internalID: 8613937850288820386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 640
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158da47a0a53f3500800000000000000
+      internalID: 378079857840150609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 640
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e007ccd1bd9f270800000000000000
+      internalID: 8284893910555168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 640
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942012c6191e2440800000000000000
+      internalID: 4912891829043602581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 576
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874b5cb843688780800000000000000
+      internalID: -8680579117707737209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 576
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd42d61e533c85800800000000000000
+      internalID: 601445186436670687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 576
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a4f45cde3b8760800000000000000
+      internalID: 7461126323708404672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 576
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00fc4192be58420800000000000000
+      internalID: 2631768118943219942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 576
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24d1eb779381560800000000000000
+      internalID: 7284635583725257450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 512
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f046c1276b7600800000000000000
+      internalID: 467080381120704949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 512
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86834fce0a90567c0800000000000000
+      internalID: -4078843300739270552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 512
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a58e05ca8ee3d80800000000000000
+      internalID: -8268916039016228212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f1baea82799c4d0800000000000000
+      internalID: -3113791466365051070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 448
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b3b4ac1f5b27b0800000000000000
+      internalID: -5247996364143218089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 448
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a459cad8473323f0800000000000000
+      internalID: -926836312260389724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c81d6d15187074c0800000000000000
+      internalID: -4291798412800747325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a556e16c65a880800000000000000
+      internalID: -8600348745662094469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f266c09cbb7fb210800000000000000
+      internalID: 1350934463047426802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6936c5240bb13a0800000000000000
+      internalID: -6693562622091749647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccea310c971a0d0800000000000000
+      internalID: -3413313176699220767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 320
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08172562419d2f90800000000000000
+      internalID: -6976760533376100342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a2b9d1dc41e130800000000000000
+      internalID: 3594238441802606889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 320
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60081ffa2e5fb5c0800000000000000
+      internalID: -4197532788924612497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 320
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9f1353d8395490800000000000000
+      internalID: -7757106402885133749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 320
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56840558e99472c0800000000000000
+      internalID: -4434750509915273637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177363e20f13c610800000000000000
+      internalID: 1640188786558334747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea44908585ead740800000000000000
+      internalID: 5177703083166419693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178035100910bb910800000000000000
+      internalID: 1854077389602228337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 256
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb8e18303719130800000000000000
+      internalID: 3571762438383123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d78a27c9169b940800000000000000
+      internalID: 5312384560026647960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 192
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b92a308cf66ea0800000000000000
+      internalID: -5879734635823777759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 193
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f8ddeeaa935f60800000000000000
+      internalID: 8021925437382390358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcec4834c179320800000000000000
+      internalID: 2564549589127319373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871b9aee6509e730800000000000000
+      internalID: 4028757315600193418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d7ccb5f506f900800000000000000
+      internalID: 717767743604511469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a83385df05b870800000000000000
+      internalID: 8697875665039958692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdeaeb1a1fe61ae0800000000000000
+      internalID: -1578811723930210870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 135
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbbc104e9ecd53b0800000000000000
+      internalID: -5522030389010580553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2c55b857cba740800000000000000
+      internalID: 5164440581524172628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 128
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43de038b09d83e0800000000000000
+      internalID: -2049823134614473541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ecb67494e89fd80800000000000000
+      internalID: -8216379599778754996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986308a1a39a6a40800000000000000
+      internalID: 5362260628855810204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee41fcd7be79bed0800000000000000
+      internalID: -2397745998447161626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d51e7908f8b9a0800000000000000
+      internalID: -6216946565931216129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16907bffb938fd90800000000000000
+      internalID: -7063832518810626532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36fe20cee768e60800000000000000
+      internalID: 7964192543177925560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4d11d78f7ac030800000000000000
+      internalID: 3515762680421764721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1076250c8c9c79c0800000000000000
+      internalID: -3928092649778155491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2325ce2e3df7b0300800000000000000
+      internalID: 219409554879566386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-Average-Average-Sprite-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3ed56a766f513a0800000000000000
+      internalID: -6695174345983138892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

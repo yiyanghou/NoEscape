@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a17699702a0db743bc7de34e30c329e, type: 3}
+  m_Name: COND_RotatePainting
+  m_EditorClassIdentifier: 
+  _oneTime: 0
+  _expression:
+  - type: 6
+    variable: {fileID: 0}
+    boolPredicate:
+      _Target: {fileID: 0}
+      _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null.HasPlayed
+      _PersistentArguments:
+      - _Type: 13
+        _Int: 0
+        _String: PuzzleGame.DialogueDef, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        _X: 0
+        _Y: 0
+        _Z: 0
+        _W: 0
+        _Object: {fileID: 11400000, guid: 072fe037a2c4892409129bad7ab82b19, type: 2}

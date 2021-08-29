@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6044774712470159982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6044774712470159980}
+  - component: {fileID: 6044774712470159983}
+  - component: {fileID: 593198061}
+  - component: {fileID: 4661434470694945757}
+  - component: {fileID: 6906812218806258404}
+  - component: {fileID: 1755994661444053257}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6044774712470159980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6044774712470159983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b30a5a1902ea49409de428b34e44fa7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomPrefab: {fileID: 3927815213173337841, guid: 3dd6c523fd2ca4c419753299de78c660, type: 3}
+  playerPrefab: {fileID: 7845882885185920104, guid: 2f507b5cc563519469e4d89361b8c808, type: 3}
+  _bgmVolume: 0.3
+  _mainMenuClip: {fileID: 8300000, guid: 92d7d8cf03007d14faa273d0f1251a43, type: 3}
+  _gameClip: {fileID: 8300000, guid: 5a0b36d4974a2214ca7046a13f6fdddb, type: 3}
+  _enterRoomClip: {fileID: 8300000, guid: 23078c0c3dda35d44bac72e8e4f89140, type: 3}
+  _leaveRoomClip: {fileID: 8300000, guid: debad1e3f9426974bac33edc3d20fcad, type: 3}
+  _initRoomClip: {fileID: 8300000, guid: ac83e2a391560084999aad7f287c6c86, type: 3}
+  _cutSceneEvents:
+  - objectRef: {fileID: 11400000, guid: a190f0c0c73df2a4d8d42c01693a4343, type: 2}
+    events:
+      _PersistentCalls:
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.SetBoolean
+        _PersistentArguments:
+        - _Type: 13
+          _Int: 0
+          _String: PuzzleGame.BoolVariable, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+            PublicKeyToken=null
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 11400000, guid: fc00ecca4baee9342a77a9aad30c3f54, type: 2}
+        - _Type: 1
+          _Int: 1
+          _String: 
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 0}
+      - _Target: {fileID: 0}
+        _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null.DisplayDialogue
+        _PersistentArguments:
+        - _Type: 13
+          _Int: 0
+          _String: PuzzleGame.DialogueDef, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+            PublicKeyToken=null
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 11400000, guid: 072fe037a2c4892409129bad7ab82b19, type: 2}
+  - objectRef: {fileID: 11400000, guid: 9b31f355dee6c6841b52842d5fbb83e4, type: 2}
+    events:
+      _PersistentCalls:
+      - _Target: {fileID: 6044774712470159983}
+        _MethodName: TriggerEnding
+        _PersistentArguments:
+        - _Type: 4
+          _Int: 1
+          _String: PuzzleGame.EGameEndingType, Assembly-CSharp, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+          _X: 0
+          _Y: 0
+          _Z: 0
+          _W: 0
+          _Object: {fileID: 0}
+  _enterRoomEvents:
+    _PersistentCalls:
+    - _Target: {fileID: 0}
+      _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null.DisplayDialogue
+      _PersistentArguments:
+      - _Type: 13
+        _Int: 0
+        _String: PuzzleGame.Condition, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        _X: 0
+        _Y: 0
+        _Z: 0
+        _W: 0
+        _Object: {fileID: 11400000, guid: 5e6eb98cd40d4fc4d9ac2ab7a07bb21a, type: 2}
+      - _Type: 13
+        _Int: 0
+        _String: PuzzleGame.DialogueDef, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        _X: 0
+        _Y: 0
+        _Z: 0
+        _W: 0
+        _Object: {fileID: 11400000, guid: 3e6a77510812dde4bba6003f477dbe0d, type: 2}
+--- !u!114 &593198061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f08cebfefc23a409710be0596d393d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _arrowGameObj: {fileID: 6979143467118763389, guid: 8ac21a2c1041c494ba5eb4c47e7f9530, type: 3}
+  _progressBar: {fileID: 5803149329379013229, guid: 96d1759be7862f44eb3ffacee3540cad, type: 3}
+--- !u!114 &4661434470694945757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 174489d3993466746aa24a5a64c09f1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _poolSize: 10
+  _constSoundFadeDuration: 1.5
+--- !u!114 &6906812218806258404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 206138e912c3faa41bef7c9c0bf9a351, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _inspectionPrompt:
+    condition: {fileID: 0}
+    prompt: {fileID: 11400000, guid: d20e2b02a42ce9b488fcc6bff1882480, type: 2}
+  _roomConnectionDialogue:
+    condition: {fileID: 11400000, guid: 909f607986a48e34195845cc4bacca2c, type: 2}
+    dialogue: {fileID: 11400000, guid: 98c62b64a9b27364da163eb09f09615b, type: 2}
+--- !u!114 &1755994661444053257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044774712470159982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b45b444df65b4b149a9ca3a209fd0c8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

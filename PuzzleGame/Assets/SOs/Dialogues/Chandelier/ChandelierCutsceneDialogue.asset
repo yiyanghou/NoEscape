@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8656ac0360b21054da01d8e3727573d4, type: 3}
+  m_Name: ChandelierCutsceneDialogue
+  m_EditorClassIdentifier: 
+  skippable: 0
+  dialogues:
+  - What happened?
+  - Looks like the painting was hit by something.
+  - Wait.. but why did the painting snap like this?
+  - You discovered a rotary device behind the painting... It rotates step by step.
+  onDialogueFinishEvents:
+    _PersistentCalls:
+    - _Target: {fileID: 0}
+      _MethodName: PuzzleGame.GameActions, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null.DisplayPrompt
+      _PersistentArguments:
+      - _Type: 13
+        _Int: 0
+        _String: PuzzleGame.PromptDef, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        _X: 0
+        _Y: 0
+        _Z: 0
+        _W: 0
+        _Object: {fileID: 11400000, guid: ffe10dd96133ee247ab560ec4681f50c, type: 2}
